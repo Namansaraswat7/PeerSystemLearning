@@ -21,11 +21,13 @@ Peer Learning system
 
 8. Peer can upvote any resource such that resources are based on upvotes in descending order
 
-————————————
+9. Peer can comment on resources. 
+
 Advanced functionality 
 
-Peer can comment on resource 
-Peer can share resource with others
+Peer can share resource with others.
+Peer can connect with other peers.
+
 
 
 LLD class diagram 
