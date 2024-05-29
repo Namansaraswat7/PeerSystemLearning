@@ -5,17 +5,17 @@ Requirements for PeerSystemLearning
 
 Peer Learning system
 
-1. System will have users/peers -> users/peers can register or add themselves 
+1. System will have users/peers -> user/peer can register or add themselves 
 
-2. Users/peers can choose subjects of their interest
+2. Peer can choose subjects of their interest
 
 3. System will have different subjects on which topic will be discussed
 
 4. Each subject can have many topics -> list of topics
 
-5. Each peer can contribute to multiple topics and subjects 
+5. Each peer can contribute to multiple topics and subjects. 
 
-6. All subjects will be visible to every peer/user on system
+6. All subjects will be visible to every peer/user on system.
 
 7. Inside each topic peer can add different resources like links, articles etc
 
